@@ -6,7 +6,7 @@
 	# Uncomment this to enable staging certificates to avoid rate limits
 	# If this is uncommented, see header section below!
 	# https://letsencrypt.org/docs/rate-limits/
-	# acme_ca https://acme-staging-v02.api.letsencrypt.org/directory
+	acme_ca https://acme-staging-v02.api.letsencrypt.org/directory
 
 	# Uncomment to see headers set by upstream
 	# debug
